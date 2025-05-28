@@ -1,0 +1,5 @@
+DEBUG 7 3440  ---Starting Logging----
+INFO 6 4440  kargs:{'debug': True, 'ident': '-c', 'rep': 'ECM', 'model': 'CSP-889', 'mode': 0, 'intKey': ['00', '01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '20', '30', '40', '50'], 'verse': [1, 0, 0, 0, 1, 0, 0, 1, 0, 0], 'verseIdx': [0, 0, 0, 0, 0]}
+NOTICE 5 4440  Mode: POWER_OFF
+NOTICE 5 4440  Master Switch: POWER_OFF
+NOTICE 5 4440  ---- Stop Logging -----
